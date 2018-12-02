@@ -1,1 +1,1 @@
-# Advent Of Code 2018 implemented in Rust
+# Advent Of Code 2018 in Rust
